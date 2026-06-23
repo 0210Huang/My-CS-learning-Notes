@@ -3,9 +3,11 @@
   "anuppuccin-theme-settings@@anp-card-shadows": true,
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
   "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar",
-  "anuppuccin-theme-settings@@anp-header-color-toggle": false,
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true,
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle",
   "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-teal",
-  "anuppuccin-theme-settings@@anp-italic-custom": "none"
+  "anuppuccin-theme-settings@@anp-italic-custom": "none",
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-yellow",
+  "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-yellow"
 }
