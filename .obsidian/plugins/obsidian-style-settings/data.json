@@ -6,8 +6,8 @@
   "anuppuccin-theme-settings@@anp-header-color-toggle": true,
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle",
-  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-teal",
-  "anuppuccin-theme-settings@@anp-italic-custom": "none",
+  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-red",
   "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-yellow",
-  "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-yellow"
+  "anuppuccin-theme-settings@@anp-h1-color-custom": "anp-h1-green",
+  "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-teal"
 }
