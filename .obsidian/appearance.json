@@ -1,5 +1,5 @@
 {
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Phycat",
   "translucency": false,
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
@@ -9,6 +9,7 @@
   "enabledCssSnippets": [
     "extended-colorschemes"
   ],
-  "theme": "obsidian",
-  "showViewHeader": false
+  "theme": "system",
+  "showViewHeader": false,
+  "textFontFamily": ""
 }

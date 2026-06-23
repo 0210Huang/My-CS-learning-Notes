@@ -23,5 +23,10 @@
   "anuppuccin-theme-settings@@anp-toggle-metadata": false,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
-  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-sky"
+  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-sky",
+  "phycat-colors@@dark-color-scheme": "theme-dark-abyss",
+  "phycat-colors@@light-color-scheme": "theme-light-sky",
+  "phycat-layout@@layout-style": "layout-cards",
+  "phycat-layout@@rainbow-folders": true,
+  "phycat-layout@@folder-icons": false
 }
