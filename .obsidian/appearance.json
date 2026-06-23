@@ -1,8 +1,12 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "AnuPpuccin",
   "translucency": true,
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
   "baseFontSize": 18,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showRibbon": false,
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }
