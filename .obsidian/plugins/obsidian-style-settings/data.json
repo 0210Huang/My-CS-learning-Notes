@@ -22,5 +22,6 @@
   "anuppuccin-theme-settings@@anp-hide-external-link-icon": true,
   "anuppuccin-theme-settings@@anp-toggle-metadata": false,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha"
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-sky"
 }
