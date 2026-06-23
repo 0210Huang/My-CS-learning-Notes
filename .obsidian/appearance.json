@@ -1,6 +1,6 @@
 {
   "cssTheme": "AnuPpuccin",
-  "translucency": true,
+  "translucency": false,
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
   "baseFontSize": 18,
@@ -8,5 +8,7 @@
   "showRibbon": false,
   "enabledCssSnippets": [
     "extended-colorschemes"
-  ]
+  ],
+  "theme": "obsidian",
+  "showViewHeader": false
 }
