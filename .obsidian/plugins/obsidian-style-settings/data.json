@@ -27,6 +27,6 @@
   "phycat-colors@@dark-color-scheme": "theme-dark-abyss",
   "phycat-colors@@light-color-scheme": "theme-light-sky",
   "phycat-layout@@layout-style": "layout-cards",
-  "phycat-layout@@rainbow-folders": true,
+  "phycat-layout@@rainbow-folders": false,
   "phycat-layout@@folder-icons": false
 }
