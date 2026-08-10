@@ -1,1 +1,4 @@
 1.BenchGuard: Who Guards the Benchmarks? Automated Auditing of LLM Agent Benchmarks
+https://arxiv.org/abs/2604.24955
+
+2.
