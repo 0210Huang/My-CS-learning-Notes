@@ -13,5 +13,5 @@ https://arxiv.org/abs/2607.02586
 5.SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents
 https://arxiv.org/abs/2608.05212
 
-6.
+6.SkillProbe: Security Auditing for Emerging Agent Skill Marketplaces via Multi-Agent Collaboration
 https://arxiv.org/abs/2603.21019
