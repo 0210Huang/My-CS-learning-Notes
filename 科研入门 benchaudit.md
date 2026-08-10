@@ -11,3 +11,4 @@ https://arxiv.org/abs/2509.17901
 https://arxiv.org/abs/2607.02586
 
 5.SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents
+https://arxiv.org/abs/2608.05212
