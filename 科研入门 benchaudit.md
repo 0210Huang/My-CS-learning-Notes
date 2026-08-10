@@ -15,3 +15,8 @@ https://arxiv.org/abs/2608.05212
 
 6.SkillProbe: Security Auditing for Emerging Agent Skill Marketplaces via Multi-Agent Collaboration
 https://arxiv.org/abs/2603.21019
+
+7.# Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack
+https://arxiv.org/abs/2605.12673
+
+8.
