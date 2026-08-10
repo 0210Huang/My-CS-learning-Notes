@@ -10,4 +10,4 @@ https://arxiv.org/abs/2509.17901
 4.Auditing the Audit: Five Failure Modes in Benchmark-Validity Audits
 https://arxiv.org/abs/2607.02586
 
-5.
+5.SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents
