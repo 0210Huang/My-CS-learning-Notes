@@ -10,5 +10,5 @@ https://arxiv.org/abs/2607.02586
 4.Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack
 https://arxiv.org/abs/2605.12673
 
-8.Benchmarking the Benchmarks: A Validity Audit of Tool-Calling Evaluation
+5.Benchmarking the Benchmarks: A Validity Audit of Tool-Calling Evaluation
 https://arxiv.org/abs/2607.02577
