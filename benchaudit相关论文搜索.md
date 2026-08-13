@@ -12,3 +12,8 @@ https://arxiv.org/abs/2605.12673
 
 5.Benchmarking the Benchmarks: A Validity Audit of Tool-Calling Evaluation
 https://arxiv.org/abs/2607.02577
+
+6.Can LLMs Detect Benchmark Defects? A Meta-Benchmark from Benchmark Updates
+https://openreview.net/forum?id=QdDcI0Ftvo
+
+7.
