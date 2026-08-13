@@ -20,3 +20,4 @@ https://openreview.net/forum?id=QdDcI0Ftvo
 https://arxiv.org/abs/2607.27518
 
 8.Benchmark Profiling: Mechanistic Diagnosis of LLM Benchmarks
+https://aclanthology.org/2025.emnlp-main.789/
