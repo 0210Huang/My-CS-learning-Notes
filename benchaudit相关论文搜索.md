@@ -16,5 +16,5 @@ https://arxiv.org/abs/2607.02577
 6.Can LLMs Detect Benchmark Defects? A Meta-Benchmark from Benchmark Updates
 https://openreview.net/forum?id=QdDcI0Ftvo
 
-7.
+7.Automated Transcript Analysis for Detecting Flaws in Agentic Benchmarks
 https://arxiv.org/abs/2607.27518
