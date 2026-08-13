@@ -18,3 +18,5 @@ https://openreview.net/forum?id=QdDcI0Ftvo
 
 7.Automated Transcript Analysis for Detecting Flaws in Agentic Benchmarks
 https://arxiv.org/abs/2607.27518
+
+8.Benchmark Profiling: Mechanistic Diagnosis of LLM Benchmarks
