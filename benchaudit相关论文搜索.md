@@ -1,10 +1,8 @@
 # BenchAudit 相关论文阅读收获
 
-学长好，我按照您上次给的建议，先重点读了 BenchGuard、Auto Benchmark Audit、BenchJack、Can LLMs Detect Benchmark Defects 和 Automated Transcript Analysis 这五篇。读的时候我主要看了方法、流程图、实验和案例，想弄清楚每篇工作到底怎样把“找 benchmark 问题”自动化。下面是我这一轮阅读后的整理，后半部分也写了几点结合 Workspace-Bench 的初步想法，可能还有理解不到位的地方。
-
 ## 一、我目前对这个方向的理解
 
-结合您一开始发给我的 [Workspace-Bench](https://workspace-bench.github.io/)，我现在理解，我们想研究的对象比普通问答数据集复杂得多。Workspace-Bench 要评测智能体能否在真实工作区中寻找相关文件、理解隐含上下文、修改材料，并按照评分规则交付结果。一个任务背后还连着文件依赖、评分细则、运行环境和完整执行过程。任何一环出问题，最终得分都可能偏离智能体的真实能力。
+结合 [Workspace-Bench](https://workspace-bench.github.io/)，我现在理解，我们想研究的对象比普通问答数据集复杂得多。Workspace-Bench 要评测智能体能否在真实工作区中寻找相关文件、理解隐含上下文、修改材料，并按照评分规则交付结果。一个任务背后还连着文件依赖、评分细则、运行环境和完整执行过程。任何一环出问题，最终得分都可能偏离智能体的真实能力。
 
 所以我目前对 BenchAudit 的理解是，给定一个已经构建好的 benchmark，尽量少依赖人工，让大语言模型或智能体系统检查任务材料和执行证据，找出会破坏评测有效性的缺陷，并给出可以复核的证据、根因和修复建议。
 
