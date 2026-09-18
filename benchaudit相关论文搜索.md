@@ -17,7 +17,7 @@
 
 这五篇论文分别覆盖了上面的不同部分。读完以后，我感觉现有方法已经可以替人工完成第一轮筛查，并把最值得检查的问题排到前面，但还无法独立证明一个 benchmark 没有问题。
 
-## 二、BenchGuard：不同benchmark材料的一致性
+## 二、BenchGuard：benchmark中不同类型材料的一致性
 
 原文见 [BenchGuard](https://arxiv.org/abs/2604.24955)。
 
