@@ -184,7 +184,7 @@ BenchJack 在全部十个 benchmark 中找到可利用问题，并在九个 benc
 
 ## 五、Can LLMs Detect Benchmark Defects
 
-原文见 [Can LLMs Detect Benchmark Defects?](https://openreview.net/forum?id=QdDcI0Ftvo)。这篇工作关注审计器到底找得准不准。论文当前还是会议评审版本，OpenReview 页面后续可能更新。
+原文见 [Can LLMs Detect Benchmark Defects?](https://openreview.net/forum?id=QdDcI0Ftvo)。这篇工作关注审计器到底找得准不准。
 
 ### 1. 研究背景和问题定义
 
